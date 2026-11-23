@@ -8,23 +8,23 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lessoff.lessoff&left_color=royalblue&right_color=black" alt="visitor badge" />
 </p>
 
-## 🛠️ Languages and Tools
+<h2 align="center">🛠️ Languages and Tools</h2>
 
-**Languages**
+<p align="center"><b>Languages</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,html,css" alt="Languages" />
 </p>
 
-**Frameworks & Libraries**
+<p align="center"><b>Frameworks & Libraries</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,flask,fastapi,tailwind" alt="Frameworks" />
 </p>
 
-**Databases, Cloud & DevOps**
+<p align="center"><b>Databases, Cloud & DevOps</b></p>
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,aws,docker,prometheus,grafana,netlify,vercel,git,github" alt="Tools and platforms" />
 </p>
 
